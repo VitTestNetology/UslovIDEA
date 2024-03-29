@@ -1,2 +1,4 @@
 # Результат:
-![](C:\Users\pysla\Desktop\Снимок.PNG)
+![][def]
+
+[def]: C:\Users\pysla\Desktop\Снимок.PNG
